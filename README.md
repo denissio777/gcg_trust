@@ -21,7 +21,6 @@ Click on the "Categories" will lead you to list of all categories. From this pla
 -Description
 
 Click on the "Videos" leads you to list of all videos, where you able to add/update/delete videos.
-HINT: current admin dashboard already contains several controllers/models/views, you can consider them as example. Admin files located in modules/admin. 
 Video model must contain:
 -Title
 -Description
