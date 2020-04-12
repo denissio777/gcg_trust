@@ -1,4 +1,4 @@
-Hello! You have to upload dump of database from root directory and set ur data in db.php file.
+## Hello! You have to upload dump of database from root directory and set ur data in db.php file.
 
 ## Keep calm, drink coffee and enjoy :)
 
@@ -10,7 +10,7 @@ password: admin
 
 ## Yii2 Test Task
 
-II. CRUD:
+## CRUD:
 On the admin dashboard, add section called "Videos". It must have a submenu with 2 items: 
 -Categories
 -Videos
