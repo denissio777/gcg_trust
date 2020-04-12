@@ -1,0 +1,70 @@
+.admin-nav .container {
+    width: 100%;
+    padding: 0;
+}
+
+.admin-nav .navbar-collapse {
+    padding: 0;
+}
+
+.main-header .sidebar-toggle:before {
+    content: none;
+}
+
+.content {
+    padding: 65px 15px 25px;
+}
+
+.no-items{
+    color: #e3e3e3;
+    font-size: 18px;
+    text-align: center;
+}
+
+.first-image {
+    border: 1px solid #3a7993;
+    border-radius: 4px;
+    display: table-cell;
+}
+
+.photo-prev {
+    padding: 10px 10px;
+    margin: 5px;
+    display: -webkit-box;
+}
+
+.move-photo {
+    position: absolute;
+    top: 30px;
+    left: 27%;
+    color: #ffffff;
+    visibility: hidden;
+}
+
+.delete-photo {
+    position: absolute;
+    top: 30px;
+    left: 59%;
+    color: #ffffff;
+    visibility: hidden;
+}
+
+.photo-prev:hover .delete-photo,.photo-prev:hover  .move-photo{
+    visibility: visible;
+}
+
+.photo-prev button:hover{
+    color: #ffffff;
+}
+
+img.rounded{
+    border-radius: 50%;
+}
+
+.main-sidebar, .left-side {
+    position: fixed;
+}
+
+a.logo{
+    position: fixed;
+}
